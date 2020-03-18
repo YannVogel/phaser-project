@@ -1,0 +1,23 @@
+{
+  "name": "phaser-project",
+  "version": "0.0.1",
+  "description": "Project to discover Phaser",
+  "main": "index.html",
+  "dependencies": {
+    "phaser": "^3.22.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flawxy/phaser-project.git"
+  },
+  "author": "Flawxy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flawxy/phaser-project/issues"
+  },
+  "homepage": "https://github.com/Flawxy/phaser-project#readme"
+}
